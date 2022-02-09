@@ -6,6 +6,10 @@ int main() {
     std::cout << "Hello world" << std::endl;
     std::cout << "Hello world" << std::endl;
     //2
+<<<<<<< HEAD
     //4
+=======
+    //3
+>>>>>>> master
     return 0;
 }

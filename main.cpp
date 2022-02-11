@@ -12,5 +12,6 @@ int main() {
     //3
 >>>>>>> master
     //5
+	//6
     return 0;
 }

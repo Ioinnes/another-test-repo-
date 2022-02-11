@@ -12,6 +12,10 @@ int main() {
     //3
 >>>>>>> master
     //5
+<<<<<<< HEAD
 //7
+=======
+	//6
+>>>>>>> new-branch
     return 0;
 }
